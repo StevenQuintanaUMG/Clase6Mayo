@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/2L5NfF7jbVo6l+bvcAKzt06DFaJGW2Qr59fymLNjzoET4Tz/3ZBeM2d18OSTd5C8/G6YmaGnON+1hX2+JEhA==",
+  "success": true,
+  "projectFilePath": "/home/steven/Developer/umg/csharp/Clase22Abril/Clase22Abril.csproj",
+  "expectedPackageFiles": [
+    "/home/steven/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.4/microsoft.aspnetcore.app.ref.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

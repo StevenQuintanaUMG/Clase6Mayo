@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FIU5LavmLaQ8tzCtz4C1Kk5BOoX1jCWYmBsyDWnYrMGIoPg5SWzX3/gpMuMZwoHFR8V2uX38JkTv16tY8eeJJw==",
+  "success": true,
+  "projectFilePath": "/home/steven/Developer/umg/csharp/Clase22Abril/clases/carro/carro.csproj",
+  "expectedPackageFiles": [
+    "/home/steven/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.4/microsoft.aspnetcore.app.ref.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
